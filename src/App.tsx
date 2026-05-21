@@ -116,7 +116,7 @@ export default function App() {
               <BookOpen className="w-4 h-4 text-orange-500" /> <span>Solution Brief</span>
             </a>
             <a
-              href="mailto:contact@ydata.in?subject=Request YData Access"
+              href="mailto:ceo@ydata.co.in?subject=Request YData Access"
               className="bg-orange-500 hover:bg-orange-600 text-white font-bold text-xs px-4 py-2 rounded-xl transition shadow-lg shadow-orange-500/10 flex items-center gap-1"
             >
               Request Access
@@ -374,7 +374,7 @@ export default function App() {
 
               <div className="pt-6">
                 <button
-                  onClick={() => window.location.href = `mailto:contact@ydata.in?subject=Request YData Deployment - ${encodeURIComponent(tier.name)} License`}
+                  onClick={() => window.location.href = `mailto:ceo@ydata.co.in?subject=Request YData Deployment - ${encodeURIComponent(tier.name)} License`}
                   className={`w-full font-bold text-xs py-3 rounded-xl transition ${
                     tier.popular
                       ? "bg-orange-500 hover:bg-orange-600 text-white shadow-lg shadow-orange-500/10"
@@ -443,7 +443,7 @@ export default function App() {
                 <span>Standard SLA: 99.99% Node Execution Invariance</span>
               </li>
               <li>
-                <span>Contact Email: <a href="mailto:contact@ydata.in" className="text-slate-200 underline hover:text-orange-400">contact@ydata.in</a></span>
+                <span>Contact Email: <a href="mailto:ceo@ydata.co.in" className="text-slate-200 underline hover:text-orange-400">ceo@ydata.co.in</a></span>
               </li>
             </ul>
           </div>
