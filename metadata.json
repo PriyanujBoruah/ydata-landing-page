@@ -1,0 +1,6 @@
+{
+  "name": "YData Landing Page",
+  "description": "Autonomous and Domain-Specific Agentic AI Data Workforce for Indian Enterprises co-developed at IIT Madras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
